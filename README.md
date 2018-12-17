@@ -1,0 +1,2 @@
+# matplotlib-challenge
+Let's dive into Python Matplotlib and apply it to some real-world situations. You've been given access to the fledgling ride sharing company of your own &amp; have been given the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type. You'll be expected to offer data-backed guidance on new opportunities for market differentiation.
